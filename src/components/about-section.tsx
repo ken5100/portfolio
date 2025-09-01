@@ -107,10 +107,8 @@ export const AboutSection = memo(function AboutSection() {
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
             About <span className="neon-text">Me</span>
           </h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto text-pretty">
-            Passionate developer with 5+ years of experience crafting digital solutions that blend creativity with
-            cutting-edge technology. I believe in building not just applications, but experiences that inspire and
-            empower users.
+          <p className="text-xl text-muted-foreground max-w-4xl mx-auto text-pretty">
+             Driven by curiosity and creativity, I craft web applications that merge innovative design with modern technology. I enjoy building projects using JavaScript, TypeScript, and have a foundation in C++, always exploring new ways to create engaging digital experiences.
           </p>
         </motion.div>
 

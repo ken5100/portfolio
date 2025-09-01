@@ -114,8 +114,8 @@ export function ContactSection() {
       {
         icon: <Mail className="w-6 h-6" />,
         title: "Email",
-        value: "alex@developer.com",
-        link: "mailto:alex@developer.com",
+        value: "yogesh@developer.com",
+        link: "mailto:yogesh@developer.com",
       },
       {
         icon: <Phone className="w-6 h-6" />,

@@ -14,8 +14,8 @@ export const metadata: Metadata = {
   description: "A dark futuristic portfolio showcasing cutting-edge web development",
   generator: "Next.js 15",
   keywords: ["portfolio", "developer", "Next.js", "React", "TypeScript", "web development"],
-  authors: [{ name: "Alex Developer" }],
-  creator: "Alex Developer",
+  authors: [{ name: "Yogesh Kumar" }],
+  creator: "Yogesh Kumar",
   openGraph: {
     title: "Portfolio | Futuristic Developer",
     description: "A dark futuristic portfolio showcasing cutting-edge web development",

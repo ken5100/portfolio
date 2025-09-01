@@ -86,19 +86,19 @@ export const HeroSection = memo(function HeroSection() {
             </motion.div>
 
             <motion.h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 text-balance" variants={itemVariants}>
-              <span className="neon-text">Alex</span> <span className="text-foreground">Developer</span>
+              <span className="neon-text">Yogesh Kumar</span> <span className="text-foreground">Developer</span>
             </motion.h1>
 
             <motion.div className="mb-8 text-xl md:text-2xl text-muted-foreground" variants={itemVariants}>
               <TypewriterText
-                texts={["Full-Stack Developer", "UI/UX Designer", "Tech Innovator", "Problem Solver"]}
+                texts={["Full-Stack Developer", "UI/UX Enthusiast", "Creative Thinker", "Problem Solver"]}
                 delay={1000}
               />
             </motion.div>
 
             <motion.p className="text-lg text-muted-foreground mb-8 max-w-2xl text-pretty" variants={itemVariants}>
-              Crafting digital experiences with cutting-edge technology and innovative design. Specializing in modern
-              web applications that push the boundaries of what's possible.
+              Full-Stack Developer with a passion for UI/UX, combining creative thinking and problem-solving 
+  to build modern web applications that deliver impactful digital experiences.
             </motion.p>
 
             <motion.div
@@ -127,7 +127,7 @@ export const HeroSection = memo(function HeroSection() {
               >
                 <img
                   src="/profile.jpg"
-                  alt="Alex Developer - Professional portrait with futuristic lighting"
+                  alt="Yogesh Kumar - Professional portrait with futuristic lighting"
                   className="w-full h-full object-cover"
                   loading="eager"
                   decoding="async"
